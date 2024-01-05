@@ -1,2 +1,5 @@
 # Ignore all folders named .terraform
 **/.terraform/
+terraform.tfstate
+terraform.tfstate.*
+backup
